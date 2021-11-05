@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1635798279967,
+  "timestamp": 1636136366476,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.dc97c9baa9429d73d3c0.js",
+        "/main.07fe58dd44834c7d20c1.js",
         "/manifest.webmanifest",
         "/polyfills.ff4fa19c5355043a5bc0.js",
         "/runtime.7273356716139b72a283.js",
-        "/styles.91fd2bf5023e311ab017.css"
+        "/styles.5df112c4eaacb1a2e8f0.css"
       ],
       "patterns": []
     },
@@ -38,6 +38,9 @@
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
+        "/assets/muscles/muscle_1.png",
+        "/assets/muscles/muscle_2.png",
+        "/assets/muscles/muscle_3.png",
         "/assets/videos/abdos_niveau1.mp4",
         "/assets/videos/abdos_niveau2.mp4",
         "/assets/videos/abdos_niveau3.mp4",
@@ -92,6 +95,9 @@
     "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/muscles/muscle_1.png": "2a44e1dfa525fd755f7b91e2c3cf21cb4b857c41",
+    "/assets/muscles/muscle_2.png": "484d542aa3f45fbe00ec5677462a918b3e9e9782",
+    "/assets/muscles/muscle_3.png": "493edb17f1e790733e2bb85bec939a7e4abd3012",
     "/assets/videos/abdos_niveau1.mp4": "8f99bc4a2cdb48730fc28ccefc3e79b6ef34f9c5",
     "/assets/videos/abdos_niveau2.mp4": "ec16b93558f4ad5f14d3d7295277f6b72bd14689",
     "/assets/videos/abdos_niveau3.mp4": "9b58140f6bdead2b1b240f3db5135ee896280f09",
@@ -132,12 +138,12 @@
     "/assets/videos/traction_niveau2.mp4": "4e022fa48efccdd4ff7d000a7e7d3417d033305b",
     "/assets/videos/tractions_niveau3.mp4": "8aa5977dd1949b000a679f7878bb5372cad5a98e",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "fecdbb0c0b8608d47af3904931519d6d16fba563",
-    "/main.dc97c9baa9429d73d3c0.js": "7f6ed0eafd8c13ee576237534d6c96a2f4850d23",
+    "/index.html": "4ce2c3ec4e8b50c323b57ec94c5fd03e615386ba",
+    "/main.07fe58dd44834c7d20c1.js": "b2a4bf16046ed6ae3a158eedb7acf8c638322f45",
     "/manifest.webmanifest": "f298f7d3d1c3ddde7b793168c328fb0a8ca5c64a",
     "/polyfills.ff4fa19c5355043a5bc0.js": "eee5efb0227e884558be7a8f92c2b217c87e3eec",
     "/runtime.7273356716139b72a283.js": "9fd5786e83a878b5a9aeef0f519956b776a2040b",
-    "/styles.91fd2bf5023e311ab017.css": "673132e88f07d6bb0baf1321d362f595e268b823"
+    "/styles.5df112c4eaacb1a2e8f0.css": "3836ab5f5e9b93e83540e6aad70004680ed94646"
   },
   "navigationUrls": [
     {
